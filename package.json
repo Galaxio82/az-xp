@@ -1,0 +1,33 @@
+{
+  "name": "az-xp",
+  "version": "1.0.0",
+  "description": "Gérer un système de level-up facilement, utilise MySQL.",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "keywords": [
+    "discord",
+    "exp",
+    "discord.js",
+    "bot",
+    "bots",
+    "leveling",
+    "levels",
+    "discord-levels",
+    "az-xp",
+    "xp"
+  ],
+  "author": "GalaxyGameur",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.4",
+    "eslint-plugin-promise": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
